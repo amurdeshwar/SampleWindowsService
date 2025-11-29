@@ -22,10 +22,10 @@ namespace SampleWindowsService
             Directory.CreateDirectory(Path.GetDirectoryName(_logPath) ?? @"C:\Temp");
 
             // write start line
-            File.AppendAllText(_logPath, $"Service Starting at {DateTime.Now:yyyy-MM-dd HH:mm:ss}\r\n");
+            File.AppendAllText(_logPath, $"Service Starting with latest changes at {DateTime.Now:yyyy-MM-dd HH:mm:ss}\r\n");
 
             // set up timer to fire every 10 seconds (10000 ms)
-            _timer = new Timer(1000000); // interval in ms
+            _timer = new Timer(100000); // interval in ms
             _timer.Elapsed += Timer_Elapsed;
             _timer.AutoReset = true;
             _timer.Enabled = true;
