@@ -1,0 +1,96 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The trust relationship between this workstation and the primary domain failed
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe assembly's progress.
+The file is located at C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

@@ -1,0 +1,9 @@
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe.config
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.pdb
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\obj\Release\SampleWindowsService.csproj.AssemblyReference.cache
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\obj\Release\SampleWindowsService.ProjectInstaller.resources
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\obj\Release\SampleWindowsService.csproj.GenerateResource.cache
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\obj\Release\SampleWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\obj\Release\SampleWindowsService.exe
+C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\obj\Release\SampleWindowsService.pdb

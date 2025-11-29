@@ -1,0 +1,135 @@
+﻿Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service SampleWinService...
+Service SampleWinService has been successfully installed.
+Creating EventLog source SampleWinService in log Application...
+Committing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Rolling back assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service SampleWinService...
+Creating EventLog source SampleWinService in log Application...
+Rolling back assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Restoring event log to previous state for source SampleWinService.
+Uninstalling assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Removing EventLog source SampleWinService.
+Service SampleWinService is being removed from the system...
+Service SampleWinService was successfully removed from the system.
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service SampleWinService...
+Service SampleWinService has been successfully installed.
+Creating EventLog source SampleWinService in log Application...
+Committing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Uninstalling assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Removing EventLog source SampleWinService.
+Service SampleWinService is being removed from the system...
+Service SampleWinService was successfully removed from the system.
+Installing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
+Installing service SampleWinService...
+Service SampleWinService has been successfully installed.
+Creating EventLog source SampleWinService in log Application...
+Committing assembly 'C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.InstallLog
+   assemblypath = C:\Users\akash.murdeshwar\source\GitHubRepos\SampleWindowsService\bin\Release\SampleWindowsService.exe
